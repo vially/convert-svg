@@ -25,7 +25,7 @@
     "url": "https://github.com/neocotic/convert-svg.git"
   },
   "dependencies": {
-    "convert-svg-core": "^0.5.0"
+    "convert-svg-core": "github:vially/convert-svg#convert-svg-core-v0.5.0-gitpkg"
   },
   "devDependencies": {
     "convert-svg-test-helper": "^0.5.0",
